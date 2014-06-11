@@ -1,5 +1,12 @@
 <?php
-
+/*
+ * The User module
+ *
+ *@pacakage sociamini
+ *@subpacakage Entities/user
+ *
+ */
+ 
 namespace Entities/user
 {
 class user

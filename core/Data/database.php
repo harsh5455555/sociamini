@@ -1,4 +1,12 @@
 <?php
+/*
+ * connection to the database is made from here
+ *
+ *@package sociamini
+ *@subpackage Data
+ *
+ */
+ 
 namespace Core\Data
 {
 class MySQL
@@ -14,7 +22,6 @@ $password="";
 function connectdb(){
 mysqli_connect($host,$username,$password,$dbname)
   or die("Unable to connect to MySQL". mysqli_connect_error()); }
-
 
 //creating a new DB for the socimini engine
 function createdb(){
