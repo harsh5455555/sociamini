@@ -1,4 +1,4 @@
 <?php
-// Starting the metro CMS core
+// Starting the sociamini core
 require( dirname( __FILE__ ) . '/core/start.php' );
 ?>
