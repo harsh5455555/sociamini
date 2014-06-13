@@ -1,4 +1,4 @@
-sociamini
+SociaMini
 =========
 
 Socia mini is a micro social networking engine.
@@ -6,5 +6,12 @@ Socia mini is a micro social networking engine.
 This is at initial stage of devlopment hence cant be used for production.
 
 --------------------------------------------------------------------------
-contributers : Pranjal Pandey
+A Pranjal Pandey product.
 --------------------------------------------------------------------------
+
+Third party codes 
+==================
+This project also includes:-
+
+* Symphony ClassLoader
+* Twitter Bootstrap
