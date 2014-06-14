@@ -15,6 +15,9 @@ $UID;
 $Username;
 $Email;
 $password;
+$firstname;
+$lastname;
+$DOB;
 
 
 }
