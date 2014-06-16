@@ -8,6 +8,7 @@ This is at initial stage of devlopment hence cant be used for production.
 Copyright
 ---------
 Except for included third-party projects, SociaMini is (c) Pranjal Pandey.
+
 For included third-party projects, see "SociaMini also contains" below.
 
 SociaMini also contains
